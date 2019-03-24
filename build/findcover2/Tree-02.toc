@@ -1,0 +1,6 @@
+('E:\\_prog\\projects\\find cover '
+ 'v0.2\\build\\findcover2\\pylast-3.1.0.dev0-py3.7.egg',
+ None,
+ {'*.pyc', '*.pyw', 'EGG-INFO', '*.cp37-win_amd64.pyd', '*.py', '*.pyd'},
+ 'DATA',
+ [])
